@@ -1,0 +1,2 @@
+discoverModulesPorts=/dev/ttyUSB0,/dev/ttyACM0
+eclipse.preferences.version=1
